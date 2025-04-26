@@ -82,8 +82,3 @@ All heavy I/O is performed with async functions to keep things responsive.
 PRs are welcome!
 
 ---
-
-## License
-
-[MIT](LICENSE)
-
